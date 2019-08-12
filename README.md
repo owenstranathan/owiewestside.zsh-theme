@@ -1,7 +1,7 @@
 # owiewestside
 
 the theme of kings
-[![owiewestside](img/owiewestside.zsh-theme-screenshot.png)](owiewestside](img/owiewestside.zsh-theme-screenshot.png)
+[![owiewestside](img/owiewestside.zsh-theme-screenshot.png)](img/owiewestside.zsh-theme-screenshot.png)
 
 
 ### Install
